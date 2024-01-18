@@ -1,15 +1,23 @@
 {
-  "name": "demo-expressjs",
+  "name": "firstapp",
   "version": "1.0.0",
-  "description": "first nodejs app",
+  "description": "demo",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shylinn/learn_nodejs.git"
+  },
   "keywords": [
     "nodejs"
   ],
-  "author": "Shylin",
-  "license": "ISC"
+  "author": "Shylinn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shylinn/learn_nodejs/issues"
+  },
+  "homepage": "https://github.com/Shylinn/learn_nodejs#readme"
 }
